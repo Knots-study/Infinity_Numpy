@@ -7,4 +7,5 @@ for a,b in zip(anko_a_name,anko_b_name):
 
 for anko in anko_b:
     for item in anko:
-        print(item,end="---")
+        print(item,end=" ")
+    print()
