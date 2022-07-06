@@ -1,3 +1,4 @@
 anko_a_name = ["こしあん","ごまあん","栗あん","かぼちゃあん"]
 
-print(anko_a_name)
+for anko in anko_a_name:
+    print(anko)
